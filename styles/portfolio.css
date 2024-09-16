@@ -11,13 +11,14 @@ body {
 }
 
 .btn-primary {
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: #FD6E0A;
     border: 5px;
     color: white;
     font-size: 20px;
     font-weight: 700px;
-    padding: 15px 30px;
+   padding: 20px;
+
 }
 
 nav {
@@ -78,3 +79,5 @@ margin-bottom: 0px;
 .banner-content{
     max-width: 500px;
 }
+
+border-radius: ;}
