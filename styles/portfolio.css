@@ -102,3 +102,9 @@ margin: 300px ;}
     display: flex;
     justify-content: space-around;
 }
+.about-info{ text-align: center;}
+.info-description{ font-weight: bold;}
+.info-title{font-weight: normal;}
+#what-i-do-description{
+    padding: 30px 150px;
+}
