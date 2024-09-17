@@ -150,7 +150,52 @@ a:hover {
     border-radius: 16px;
 
   }
-  .section-title :hover{
-    background-color: black;
+  .section-titles:hover{
+    background-color: #fff8f3;
+   padding:  20px  20px;
+   border-radius: 30px;
   }
-  
+  .section-description:hover{
+    color:#181818;
+    width: bolder;
+
+  }
+.section-titles{
+    color: #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+}
+#cool{
+    background-color: #fff8f3;
+    color: #fff8f3;
+    border-color: #fff8f3 ;
+    border-bottom: #fff8f3;
+    border-right: #fff8f3;
+   
+}
+#cool:hover{
+    background-color: #181818;
+}
+.btn-primary:hover{
+    color: #181818;
+}
+.info-description:hover{
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+}
+.btn-primary a{text-decoration: none;
+    border-radius: 15px;
+    background-color: #FD6E0A;
+    border: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+   padding: 20px;
+   text-align: ;
+}
+.btn-primary a:hover{
+    background-color: black;
+    padding: 9px 9px 9px 9px;
+}
